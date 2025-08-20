@@ -1,0 +1,4 @@
+create a virtual enviroment and download shit
+
+make a .env file using cmd commands and access that file using a python file
+
