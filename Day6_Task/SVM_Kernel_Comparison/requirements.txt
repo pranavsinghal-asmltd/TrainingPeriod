@@ -5,3 +5,4 @@ seaborn
 mlflow
 scikit-learn
 python-dotenv
+joblib

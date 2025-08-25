@@ -1,0 +1,22 @@
+artifact_path: file:H:/TrainingPeriod/Day6_Task/SVM_Kernel_Comparison/mlartifacts/models/m-be7b130def3043f6b33e3b205f8e4a86/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.1
+model_id: m-be7b130def3043f6b33e3b205f8e4a86
+model_size_bytes: 17859
+model_uuid: m-be7b130def3043f6b33e3b205f8e4a86
+prompts: null
+run_id: 3b5791dbeb8b4a75824d53ed1538b289
+utc_time_created: '2025-08-25 10:40:48.447679'
