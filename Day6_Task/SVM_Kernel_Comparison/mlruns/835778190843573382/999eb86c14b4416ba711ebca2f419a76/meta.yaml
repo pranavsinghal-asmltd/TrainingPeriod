@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835778190843573382/999eb86c14b4416ba711ebca2f419a76/artifacts
+deleted_time: 1756106012530
+end_time: 1756105359351
+entry_point_name: ''
+experiment_id: '835778190843573382'
+lifecycle_stage: deleted
+run_id: 999eb86c14b4416ba711ebca2f419a76
+run_name: SVM_SIGMOID
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756105339308
+status: 3
+tags: []
+user_id: ASM9015
