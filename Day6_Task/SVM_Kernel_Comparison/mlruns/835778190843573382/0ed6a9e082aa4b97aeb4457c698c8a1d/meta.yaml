@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/835778190843573382/0ed6a9e082aa4b97aeb4457c698c8a1d/artifacts
+deleted_time: 1755860958228
+end_time: 1755853868695
+entry_point_name: ''
+experiment_id: '835778190843573382'
+lifecycle_stage: deleted
+run_id: 0ed6a9e082aa4b97aeb4457c698c8a1d
+run_name: SVM_RBF
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755853798550
+status: 3
+tags: []
+user_id: ASM9015

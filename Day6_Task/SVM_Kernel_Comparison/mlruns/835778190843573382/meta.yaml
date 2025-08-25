@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/835778190843573382
+creation_time: 1755853730852
+experiment_id: '835778190843573382'
+last_update_time: 1755853730852
+lifecycle_stage: active
+name: train/SVM_Kernel_Comparison
